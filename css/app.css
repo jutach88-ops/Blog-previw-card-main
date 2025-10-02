@@ -1,0 +1,77 @@
+body {
+  margin-block: 1.5rem;
+  padding-inline: 1.5rem;
+  margin-inline: auto;
+  max-width: 1440px;
+  height: 100vh;
+  background-color: hsl(47, 88%, 63%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+main {
+  font-family: "Figtree-VariableFont_wgh", sans-serif;
+}
+
+section {
+  max-width: 376px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  border-radius: 15px;
+  align-items: center;
+  box-shadow: 8px 8px hsl(0, 0%, 7%);
+
+  img.class1 {
+    margin-top: 20px;
+    border-radius: 15px;
+  }
+}
+
+.divclass2 {
+  margin: 20px 20px 20px 20px;
+
+  .divclass1 {
+    font-size: 14px;
+    font-weight: bold;
+    width: 90px;
+    height: 30px;
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+  }
+
+  p.class1 {
+    color: hsl(0, 0%, 7%);
+    font-size: 14px;
+  }
+
+  p.class2 {
+    color: hsl(0, 0%, 42%);
+    line-height: 27px;
+  }
+
+  footer {
+    display: flex;
+    align-items: center;
+
+    img.class2 {
+      margin-right: 10px;
+      height: 40px;
+    }
+
+    span{
+      font-size: 14px;
+      font-weight: bold;
+    }
+  }
+}
+
+.footerclass1 {
+  margin-top: 300px;
+}

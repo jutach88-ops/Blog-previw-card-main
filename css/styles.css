@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Figtree-italic-VariableFont_wght";
+    src: url("../assets/fonts/Figtree-Italic-VariableFont_wght.ttf");
+    font-style: italic;
+    font-display: swap;
+    
+}
+
+@font-face {
+    font-family:"Figtree-VariableFont_wgh";
+    src: url("../assets/fonts/Figtree-VariableFont_wght.ttf");
+    font-display: swap;
+ 
+
+}
+
+@font-face {
+    font-family: "Figtree-ExtraBold";
+    src: url("../assets/fonts/static/Figtree-ExtraBold.ttf");
+    font-display: swap;
+   
+}
+
+@font-face {
+    font-family: "Figtree-Medium";
+    src: url("../assets/fonts/static/Figtree-Medium.ttf");
+    font-display: swap;
+    
+}
